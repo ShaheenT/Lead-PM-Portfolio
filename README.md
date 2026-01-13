@@ -5,7 +5,7 @@ multiple AI, SaaS, and digital software projects, showcasing planning,
 coordination, and technical oversight in full lifecycle project 
 management.
 
-## Projects
+## Projects 2025
 
 - [Athaan_Fi_Beit](./ENTRPRNRIX_AI/Athaan_Fi_Beit) – End-to-end delivery, Agile 
 leadership, QA integration, CI/CD pipelines, stakeholder management
